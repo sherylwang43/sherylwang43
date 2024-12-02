@@ -3,6 +3,8 @@
 - 🌱 I’m currently majoring in cs + math at uw-madison, graduating 2028
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: i also play the saxophone and occasionally piano!
+- pretty beginner, interested in AI/ML possibly (?)
+- languages: Java, HTML/CSS, JavaScript, Python, R
 
 <!---
 sherylwang43/sherylwang43 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
